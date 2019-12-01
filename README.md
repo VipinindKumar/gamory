@@ -11,4 +11,5 @@ Now he got to make a decision, ' take a risk of death and try to win millions of
 Use arrow keys to move him and reach for GLORRYYYYY and remember everyone wants to eat him(Even the Ghost, yeah you read it right "The Ghost") and yeah he will buy lottery ticket later, so don't worry about that.
 
 
+[**Link to the code on scratch.mit.edu**](https://scratch.mit.edu/projects/53720774/editor/)
 ![Part of Code image](/images/gamoryCode.PNG)
