@@ -10,3 +10,4 @@ a story of a mouse + a game
 Use arrow keys to move him and reach for GLORRYYYYY and remember everyone wants to eat him(Even the Ghost, yeah you read it right "The Ghost") and yeah he will buy lottery ticket later, so don't worry about that.
 
 
+![Part of Code image](/images/gamoryCode.PNG)
