@@ -1,4 +1,4 @@
-# gamory
+# Gamory
 ### A Story of a Mouse + a Game
 
 ![Gamory](/images/gamory.PNG)
