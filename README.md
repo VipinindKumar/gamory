@@ -1,6 +1,7 @@
 # Gamory
 ### A Story of a Mouse + a Game
 
+[**Link to the Game, embeded on the website **](https://vipinindkumar.github.io/projects/5Gamory.html)
 ![Gamory](/images/gamory.PNG)
 
 
